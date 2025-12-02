@@ -1,0 +1,28 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\tunics/steppe_tunic_02_cut.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/_ave_heavy_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/_ave_heavy_armour_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/_ave_heavy_armour_3.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/_ave_heavy_armour_4.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\tunics/steppe_tunic_03_cut.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/_ave_heavy_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/_ave_heavy_armour_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/_ave_heavy_armour_3.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/_ave_heavy_armour_4.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,171 @@
+<VARIANT_MESH>
+	<SLOT name="base" >
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/skin/barb_headhands_bearded.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_bearded.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_beardless.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_beardless2.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="facial_hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/barb_hair_beard_blond.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/barb_hair_beard_red_knot.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_brown_ragged.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_blond_ragged.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_blond.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="props" />
+			<SLOT name="clothing" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/tunics/dacian_tunics.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/tunics/dacian_tunics.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/tunics/germanic_tunics.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/tunics/germanic_tunics.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/tunics/germanic_tunics.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" probability ="0.3" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak\germanic_leather_cloak/georgian_leather_cloak.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/lob_cloak_thracian_fur_a.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/celtic_cloaks.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/celtic_cloaks.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak\germanic_leather_cloak/germanic_leather_cloak.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="greaves" />
+			<SLOT name="shield" />
+			<SLOT name="weapon_1" attach_point="weapon_01" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/falx_3.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/rhomphaia.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/rhomphaia.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/falx_3.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/rhomphaia.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/rhomphaia.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_3" />
+			<SLOT name="weapon_4" />
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_uppertorso_game.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_uppertorso_night.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="facial_hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/barb_hair_beard_blond.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/barb_hair_beard_red_knot.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_brown_ragged.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_blond.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_red_knot.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="props" />
+			<SLOT name="clothing" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/germanic_trousers.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/germanic_trousers.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_trousers.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/celtic_patterned_trousers.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" probability ="0.3" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak\germanic_leather_cloak/georgian_leather_cloak.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/lob_cloak_thracian_fur_a.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/celtic_cloaks.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/celtic_cloaks.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak\germanic_leather_cloak/germanic_leather_cloak.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="greaves" />
+			<SLOT name="shield" />
+			<SLOT name="weapon_1" attach_point="weapon_01" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/falx_3.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/rhomphaia.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/rhomphaia.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/falx_3.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/rhomphaia.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/rhomphaia.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_3" />
+			<SLOT name="weapon_4" />
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_bearded.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_bearded.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_beardless.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_beardless2.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="facial_hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/barb_hair_beard_blond.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/barb_hair_beard_red_knot.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_brown_ragged.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_blond.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_red_knot.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="props" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\tunics/_croc_tunic_pict_longsleeve_poor_a.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\tunics/_croc_tunic_pict_longsleeve_poor_b.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="clothing" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_trousers_cut.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/germanic_trousers_cut.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/germanic_trousers_cut.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/celt_cheque_trousers_2.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" probability ="0.3" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak\germanic_leather_cloak/georgian_leather_cloak.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/lob_cloak_thracian_fur_a.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/celtic_cloaks.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/celtic_cloaks.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak\germanic_leather_cloak/germanic_leather_cloak.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="greaves" />
+			<SLOT name="shield" />
+			<SLOT name="weapon_1" attach_point="weapon_01" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/falx_3.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/rhomphaia.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/rhomphaia.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/falx_3.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/rhomphaia.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/rhomphaia.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_3" />
+			<SLOT name="weapon_4" />
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_tattooed_naked.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_full_game.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="facial_hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/barb_hair_beard_blond.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/barb_hair_beard_red_knot.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_brown_ragged.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_blond.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_red_knot.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="props" />
+			<SLOT name="clothing" />
+			<SLOT name="cloaks" probability ="0.3" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak\germanic_leather_cloak/georgian_leather_cloak.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/lob_cloak_thracian_fur_a.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/celtic_cloaks.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/celtic_cloaks.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak\germanic_leather_cloak/germanic_leather_cloak.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="greaves" />
+			<SLOT name="shield" />
+			<SLOT name="weapon_1" attach_point="weapon_01" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/falx_3.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/rhomphaia.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/rhomphaia.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/falx_3.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/rhomphaia.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/rhomphaia.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_3" />
+			<SLOT name="weapon_4" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

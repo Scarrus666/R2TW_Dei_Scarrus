@@ -1,0 +1,16 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/dacian_phrygian_officer_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/dacian_phrygian_officer_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/dacian_phrygian_officer_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/dacian_phrygian_officer_02.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/dacian_phrygian_officer_03.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/dacian_phrygian_officer_03.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,74 @@
+<VARIANT_MESH>
+	<SLOT name="type" >
+		<VARIANT_MESH>
+			<SLOT name="hair" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_game.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="beard" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/dacian_hair_beard_helmet.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/getae_hair_beard_helmet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="helmets" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_mixed1.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_noble_helmets.VariantMeshDefinition" />
+		                                <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="torso" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/getae_heavy_armour.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/dacian_cloaks_elite.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\shield/getae_oval_noble.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_1" attach_point="weapon_01" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/celtic_shortspear_01.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/celtic_shortspear_04.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/celtic_shortspear_06.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/sickle4.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_3" />
+			<SLOT name="weapon_4" />
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="hair" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_game.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="beard" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/dacian_hair_beard_helmet.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/getae_hair_beard_helmet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="helmets" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_mixed1.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/_daci_hats_rich.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/roman_cloth_hat.VariantMeshDefinition" />
+		                                <VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_greek_helmets.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="torso" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/getae_heavy_armour.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/getae_leather_armour.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/att_sheep_mantle.variantmeshdefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/att_wolf_mantle.variantmeshdefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/att_wolf_mantle.variantmeshdefinition" />
+			</SLOT>
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\shield/getae_oval_noble.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_1" attach_point="weapon_01" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/celtic_shortspear_01.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/celtic_shortspear_04.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/celtic_shortspear_06.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/sickle3.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_3" />
+			<SLOT name="weapon_4" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

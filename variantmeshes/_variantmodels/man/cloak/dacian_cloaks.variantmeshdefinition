@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="cloaks" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/_ciu_fur_cloaks.variantmeshdefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/_ciu_fur_cloaks.variantmeshdefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/_ciu_fur_cloaks.variantmeshdefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/_ciu_fur_cloaks.variantmeshdefinition" />
+		                                <VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak\celtic_chieftain_cloak/lob_cloak_celtic_chieftain_sheepskin_a.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

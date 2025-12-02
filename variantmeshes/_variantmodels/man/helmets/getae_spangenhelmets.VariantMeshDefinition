@@ -1,0 +1,36 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_02.rigid_model_v2" >
+			<SLOT name="top_crests" probability ="0.5" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_01_barmiza.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_02_barmiza.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_03_barmiza.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_01.rigid_model_v2" >
+			<SLOT name="top_crests" probability ="0.5" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_01_barmiza.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_02_barmiza.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_03_barmiza.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_03.rigid_model_v2" >
+			<SLOT name="top_crests" probability ="0.5" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_01_barmiza.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_02_barmiza.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_spangenhelm_03_barmiza.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_osp_spangen_helm_nocheeks.rigid_model_v2" >
+			<SLOT name="top_crests" probability ="0.5" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_osp_spangen_helm_nocheeks_2.rigid_model_v2" >
+			<SLOT name="top_crests" probability ="0.5" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

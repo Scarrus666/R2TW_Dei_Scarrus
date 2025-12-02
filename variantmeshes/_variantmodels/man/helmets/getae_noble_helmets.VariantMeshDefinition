@@ -1,0 +1,30 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_ave_dacian_conical_helmet_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_dacian_noble_helmet_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/_ave_dacian_conical_helmet_2.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/steppe_spangenhelm.rigid_model_v2" >
+			<SLOT name="top_crests" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\beards/barbarian_hair_01_helmet.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\hair/barbarian_hair_02_helmet.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/steppe_spangenhelm_bronze.rigid_model_v2" >
+			<SLOT name="top_crests" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\hair/barbarian_hair_02_helmet.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\beards/barbarian_hair_01_helmet.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,13 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH>
+			<SLOT name="trousers" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\trousers/cloth_legs_light_01.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\trousers/cloth_legs_light_01.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\trousers/cloth_legs_light_01.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\trousers/cloth_legs_light_01.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\trousers/cloth_legs_light_01.rigid_model_v2"  mask0="2"  mask2="0" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

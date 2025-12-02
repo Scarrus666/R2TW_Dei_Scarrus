@@ -1,0 +1,13 @@
+<VARIANT_MESH>
+	<SLOT name="hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_01_helmet_blonde_lod1.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_02_helmet_blonde_lod1.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="beard" >
+		                                <VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\beards/barbarian_beard_01b_light_brown_lod1.rigid_model_v2" />
+		                                <VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\beards/barbarian_beard_02a_blond_lod1.rigid_model_v2" />
+		                                <VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\beards/barbarian_beard_02a_blond_lod1.rigid_model_v2" />
+		                                <VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\beards/barbarian_beard_02h_blond_lod1.rigid_model_v2" />
+		                                <VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\beards/barbarian_beard_02h_blond_lod1.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

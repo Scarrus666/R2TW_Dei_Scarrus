@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="hair" >
+                                                                <VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/dacian_blond_helmet.VariantMeshDefinition" />
+                                                                <VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/dacian_blond_helmet.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_helmet_red_dacian.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/barb_hair_beard_helmet_red_dacian.VariantMeshDefinition" />
+                                                                <VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\hair_beards/dacian_brown_helmet.VariantMeshDefinition" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="cloaks" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/mantles/sheep_mantle.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/cloak/mantles/sheep_mantle.rigid_model_v2" >
+			<TINT red="0.952941" green="0.945098" blue="0.882353" random_range="0.4" />
+			<TINT red="0.890196" green="0.886275" blue="0.827451" random_range="0.3" />
+			<TINT red="0.807843" green="0.803922" blue="0.752941" random_range="0.3" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

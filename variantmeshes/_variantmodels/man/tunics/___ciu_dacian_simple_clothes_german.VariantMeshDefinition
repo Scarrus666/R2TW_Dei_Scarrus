@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\accessories/neckerchief_3.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\tunics/__ciu_dacian.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\tunics/__ciu_german.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\tunics/__ciu_celtic.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/_ciu_dacian_vanilla_cut_1.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/_ciu_dacian_vanilla_cut_2.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/_ciu_z_celtic_cut_vanilla_1.VariantMeshDefinition" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\trousers/germanic_basic_trousers_01_cut.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/_ciu_dacian_simple_pants.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" probability ="0.3" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak\germanic_leather_cloak/germanic_leather_cloak.rigid_model_v2" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/hellenic_companion_cloaks_1.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

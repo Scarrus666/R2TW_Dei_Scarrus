@@ -1,0 +1,24 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/nubian_headdress_03.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/thracian_cap_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/germanic_cap.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/thracian_cap_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/lob_hat_anatolian_kidaris_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/thracian_cap_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/lob_hat_anatolian_kidaris_c.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/thracian_cap_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/lob_hat_anatolian_kidaris_d.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/thracian_cap_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

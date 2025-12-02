@@ -1,0 +1,199 @@
+<VARIANT_MESH>
+	<SLOT name="base" >
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_bearded.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="facial_hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/getae_hair_beard_helmet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="props" probability ="0.7" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+			</SLOT>
+	                                <SLOT name="helmets" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_greek_helmets.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_mixed1.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_noble_helmets.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/_daci_hats_rich.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/roman_cloth_hat.VariantMeshDefinition" />
+	                                        </SLOT>
+			<SLOT name="clothing" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/getae_heavy_armour.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/dacian_armour.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/dacian_armour2.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/dacian_cloaks_elite.variantmeshdefinition" />
+			</SLOT>
+			<SLOT name="greaves" probability ="0.5" attach_point="weapon_03" />
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\shield/getae_oval_noble.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/sickle4.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/sickle4.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/sickle4.VariantMeshDefinition" />
+		                                <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/celtic_swords_elite.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_4" attach_point="weapon_05" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/javelins_leaf.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_bearded.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="facial_hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/getae_hair_beard_helmet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="props" probability ="0.7" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="helmets" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_mixed1.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_noble_helmets.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="clothing" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/getae_heavy_armour.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/dacian_cloaks_elite.variantmeshdefinition" />
+			</SLOT>
+			<SLOT name="greaves" probability ="0.5" attach_point="weapon_03" />
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\shield/getae_oval_noble.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/sickle4.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_4" attach_point="weapon_05" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/javelins_leaf.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_bearded.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="facial_hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/getae_hair_beard_helmet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="props" probability ="0.7" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="helmets" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_mixed1.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_noble_helmets.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="clothing" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/getae_heavy_armour.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/dacian_cloaks_elite.variantmeshdefinition" />
+			</SLOT>
+			<SLOT name="greaves" probability ="0.5" attach_point="weapon_03" />
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\shield/getae_oval_noble.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/sickle4.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_4" attach_point="weapon_05" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/javelins_leaf.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_bearded.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="facial_hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/getae_hair_beard_helmet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="props" probability ="0.7" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="helmets" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_mixed1.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/_daci_hats_rich.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="clothing" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/getae_heavy_armour.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/dacian_cloaks_elite.variantmeshdefinition" />
+			</SLOT>
+			<SLOT name="greaves" probability ="0.5" attach_point="weapon_03" />
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\shield/getae_oval_noble.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/sickle4.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_4" attach_point="weapon_05" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/javelins_leaf.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\skin/barb_headhands_bearded.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="facial_hair" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/getae_hair_beard_helmet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="props" probability ="0.7" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_silver.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\props/briton_torc_a_gold.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="helmets" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_mixed1.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		                                        <VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/_daci_hats_rich.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="clothing" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/getae_heavy_armour.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/dacian_cloaks_elite.variantmeshdefinition" />
+			</SLOT>
+			<SLOT name="greaves" probability ="0.5" attach_point="weapon_03" />
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\shield/getae_oval_noble.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/sickle4.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_4" attach_point="weapon_05" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/javelins_leaf.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

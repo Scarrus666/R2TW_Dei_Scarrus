@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="cloaks" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/belgae_cloak_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/celtic_cloak/celtic_cloak_1.rigid_model_v2" /> 
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/belgae_cloak_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/celtic_cloak/celtic_cloak_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/belgae_cloak_03.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/celtic_cloak/celtic_cloak_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/belgae_cloak_04.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/celtic_cloak/celtic_cloak_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/belgae_cloak_05.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/celtic_cloak/celtic_cloak_1.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

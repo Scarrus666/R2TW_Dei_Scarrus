@@ -1,0 +1,30 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/skin/barb_bearded_3.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="facial_hair" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/dacian_1.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="props" />
+	<SLOT name="helmets" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/hellenic_attic_crest.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="clothing" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\armour/dacian_scale_1_b.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="cloaks" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/wolf_mantle.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="trousers" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/dacian_2_b.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="greaves" />
+	<SLOT name="shield" attach_point="weapon_03" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\shield/dacian_3.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="weapon_2" attach_point="weapon_02" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/celt_sworda.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="weapon_3" />
+	<SLOT name="weapon_4" />
+</VARIANT_MESH>

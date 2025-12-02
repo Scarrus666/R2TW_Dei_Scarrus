@@ -1,0 +1,123 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thra4_cutoff_tunica.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="cloaks" />
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/thraci1_elite_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/thraci2_elite_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/thraci3_elite_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask2="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac6_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+			</SLOT>
+			<SLOT name="bracers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="greaves" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/graves_basic.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thra4_cutoff_tunica.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/thraci1_elite_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/thraci2_elite_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/thraci3_elite_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask2="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac6_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+			</SLOT>
+			<SLOT name="bracers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="greaves" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/graves_basic.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thra5_cutoff_tunica.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/thraci1_elite_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/thraci2_elite_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/thraci3_elite_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask2="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac6_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+			</SLOT>
+			<SLOT name="bracers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="greaves" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/graves_basic.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thra5_cutoff_tunica.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="cloaks" />
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/eastern_scale.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask2="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac6_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+			</SLOT>
+			<SLOT name="bracers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="greaves" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/graves_basic.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thra6_cutoff_tunica.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="cloaks" />
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/eastern_scale.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac4_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac5_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask2="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thrac6_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+			</SLOT>
+			<SLOT name="bracers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/wrist_bronz_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="greaves" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/greaves.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/greaves/graves_basic.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

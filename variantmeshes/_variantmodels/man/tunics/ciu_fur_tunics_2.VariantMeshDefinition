@@ -1,0 +1,19 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\tunics/_dac_tunic_fur_a.rigid_model_v2"  imposter_model="variantmeshes/_VariantModels/man/tunics/carth_cutoff_tunica.rigid_model_v2" >
+			<SLOT name="armour" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\tunics/_dac_tunic_fur_a.rigid_model_v2"  imposter_model="variantmeshes/_VariantModels/man/tunics/carth_cutoff_tunica.rigid_model_v2" >
+			<SLOT name="armour" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\tunics/_dac_tunic_fur_b.rigid_model_v2"  imposter_model="variantmeshes/_VariantModels/man/tunics/carth_cutoff_tunica.rigid_model_v2" >
+			<SLOT name="armour" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\tunics/_dac_tunic_fur_b.rigid_model_v2"  imposter_model="variantmeshes/_VariantModels/man/tunics/carth_cutoff_tunica.rigid_model_v2" >
+			<SLOT name="armour" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\tunics/_dac_tunic_fur_c.rigid_model_v2"  imposter_model="variantmeshes/_VariantModels/man/tunics/carth_cutoff_tunica.rigid_model_v2" >
+			<SLOT name="armour" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

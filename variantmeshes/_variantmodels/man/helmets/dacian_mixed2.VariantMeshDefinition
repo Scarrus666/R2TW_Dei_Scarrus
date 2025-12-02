@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_greek_helmets.VariantMeshDefinition" />
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_spangenhelmets.VariantMeshDefinition" />
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_spangenhelmets.VariantMeshDefinition" />
+	</SLOT>
+</VARIANT_MESH>

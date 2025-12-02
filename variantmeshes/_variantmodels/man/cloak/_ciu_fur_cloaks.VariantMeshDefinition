@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="cloaks" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/_z_lob_cloak_thracian_fur_a.rigid_model_v2" />
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/_z_lob_cloak_thracian_fur_b.rigid_model_v2" />
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/_z_lob_cloak_thracian_fur_c.rigid_model_v2" />
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/_z_lob_cloak_thracian_fur_d.rigid_model_v2" />
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/_z_lob_cloak_thracian_fur_a.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

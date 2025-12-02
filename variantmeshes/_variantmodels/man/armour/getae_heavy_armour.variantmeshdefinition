@@ -1,0 +1,69 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_02_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_02_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/dacian_scale_2.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\armour/iberian_scalemail_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/dacian_armour_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="weapons" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/weapons/celtic_swords.VariantMeshDefinition" />
+                                        <VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\weapons/slavic_swords.variantmeshdefinition" />
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/_ave_sika_1.rigid_model_v2" />
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/_ave_sika_1.rigid_model_v2" />
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/_ave_sika_2.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

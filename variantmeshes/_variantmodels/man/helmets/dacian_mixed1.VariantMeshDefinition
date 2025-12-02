@@ -1,0 +1,23 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/steppe_bronze_neckguard_cap.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_coolus2.rigid_model_v2" >
+			<SLOT name="top_crests" attach_point="crest_centre" />
+			<SLOT name="side_crests" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/kaz_roman_cheek_02.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/steppe_saka_helmet_1b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_coolus2.rigid_model_v2" >
+			<SLOT name="top_crests" attach_point="crest_centre" />
+			<SLOT name="side_crests" >
+				<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/kaz_roman_cheek_03.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/dacian_greek_helmets.VariantMeshDefinition" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/steppe_chalcidian_helmet.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_coolus2.rigid_model_v2" >
+			<SLOT name="top_crests" attach_point="crest_centre" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/dacian_phyrgians.VariantMeshDefinition" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,23 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+			<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/_daci_hats_rich.VariantMeshDefinition" />
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+			<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/_daci_hats_rich.VariantMeshDefinition" />
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+			<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/_daci_hats_poor.VariantMeshDefinition" />
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+			<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/_daci_hats_poor.VariantMeshDefinition" />
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+			<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\helmets/_daci_hats_poor.VariantMeshDefinition" />
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+</VARIANT_MESH>

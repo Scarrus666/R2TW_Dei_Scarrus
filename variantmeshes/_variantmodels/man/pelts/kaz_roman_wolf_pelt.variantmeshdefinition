@@ -1,0 +1,16 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_3_no_helmet.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_2_no_helmet.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_1_no_helmet.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

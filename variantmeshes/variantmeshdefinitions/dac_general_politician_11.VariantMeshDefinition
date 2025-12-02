@@ -1,0 +1,30 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\skin/barb_cine_headhands_beardless_skinbb16_shape16.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="facial_hair" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\beards/barbarian_beard_01e_brown_lod1.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="props" />
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\hair_beards\hair/barbarian_hair_01a_brown_lod1.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="clothing" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\tunics/lob_tunic_generic_longsleeve_poor_4.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="cloaks" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\cloak/sheep_mantle.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="trousers" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\trousers/dacian_1_a.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="greaves" />
+	<SLOT name="shield" attach_point="weapon_03" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\shield/dacian_3.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="weapon_2" attach_point="weapon_02" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\weapons/falx_3.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="weapon_3" />
+	<SLOT name="weapon_4" />
+</VARIANT_MESH>

@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="cloaks" >
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/att_sheep_mantle.variantmeshdefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/att_wolf_mantle.variantmeshdefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/att_wolf_mantle.variantmeshdefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\cloak/_ciu_fur_cloaks.variantmeshdefinition" />
+				<VARIANT_MESH_REFERENCE definition="variantmeshes\_variantmodels\man\pelts/bearpelts_helmets.VariantMeshDefinition" />
+	</SLOT>
+</VARIANT_MESH>

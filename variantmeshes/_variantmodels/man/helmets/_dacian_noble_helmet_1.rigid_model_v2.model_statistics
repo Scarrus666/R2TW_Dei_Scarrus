@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+    <SourceFile>&lt;raw&gt;/variantmeshes/variantmodels/man/helmets/_dacian_noble_helmet_1.cs2</SourceFile>
+    <Texture>variantmeshes/_variantmodels/man/helmets/tex/_dacia_helmet_1_normal</Texture>
+    <Texture>variantmeshes/_variantmodels/man/helmets/tex/_dacia_helmet_1_gloss_map</Texture>
+    <Texture>variantmeshes/_variantmodels/man/helmets/tex/_dacia_hat_1_dirtmask</Texture>
+    <Texture>variantmeshes/_variantmodels/man/helmets/tex/_dacia_helmet_1_specular</Texture>
+    <Texture>variantmeshes/_variantmodels/man/helmets/tex/_dacia_helmet_1_diffuse</Texture>
+    <Texture>variantmeshes/_variantmodels/man/helmets/tex/default_decaldirtmap</Texture>
+    <Mesh id="0">
+        <Duplicate>False</Duplicate>
+        <LOD lod="0">
+            <Distance>100</Distance>
+            <Name>dacian_noble</Name>
+            <Target>c:/program files (x86)/steam/steamapps/common/total war rome ii/assembly_kit/working_data/VariantMeshes/_VariantModels/man/helmets/_dacian_noble_helmet_1.rigid_model_v2</Target>
+            <Alpha>Opaque</Alpha>
+            <Shader>weighted_dirtmap</Shader>
+            <Type>rome_man_game</Type>
+            <Cinematic>No</Cinematic>
+            <Vertices>405</Vertices>
+            <TriCount>502</TriCount>
+        </LOD>
+    </Mesh>
+</Model>

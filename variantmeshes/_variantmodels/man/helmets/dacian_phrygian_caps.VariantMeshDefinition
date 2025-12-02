@@ -1,0 +1,16 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/croc_helmet_phrygian_cap_a.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/thracian_cap_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/croc_helmet_phrygian_cap_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/thracian_cap_1.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\_variantmodels\man\helmets/croc_helmet_phrygian_cap_c.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/thracian_cap_1.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>
