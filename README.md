@@ -49,6 +49,3 @@ A fan of history, strategy games, and making factions look awesome.
 ### 📜 License
 
 Free to use and modify. Credit appreciated.
-```
-
-Let me know if you want to add specific unit changes, screenshots, or installation troubleshooting!
